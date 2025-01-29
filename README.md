@@ -17,5 +17,5 @@ To use the SAM 2 predictor and run the example notebooks, `jupyter` and `matplot
 ```bash
 pip install -e ".[notebooks]"
 ```
-
+     
 
